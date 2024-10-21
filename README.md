@@ -31,20 +31,24 @@ Para configurar o projeto localmente, siga os passos abaixo para clonar o reposi
 
 1. **Clone o repositório**
 
-  ```bash
-  git clone https://github.com/seu-usuario/task-manager-react-vite.git
-  ```
+    ```bash
+    git clone https://github.com/seu-usuario/task-manager-react-vite.git
+    ```
 
 2. **Navegue para o diretório do projeto**
-    cd task-manager-react-vite
 
-3. **Instale as dependências**
+    ```bash
+    cd task-manager-react-vite
+    ```
+    
+
+4. **Instale as dependências**
 
     ```bash
     npm install
     ```
 
-4. **Execute o projeto**
+5. **Execute o projeto**
 
     ```bash
     npm run dev
