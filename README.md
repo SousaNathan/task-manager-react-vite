@@ -7,7 +7,7 @@ Este projeto é uma aplicação frontend desenvolvida em **React** com **Vite** 
 
 ---
 
-## O que ja foi concluído:
+## O que já foi concluído:
 - Comunicação com o Back-end [Task Manager ASP.NET API](https://github.com/SousaNathan/task-manager-aspnet-api)
 - Criação de conta.
 - Autenticação.
